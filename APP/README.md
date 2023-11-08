@@ -14,6 +14,6 @@ How to Run
 1. pip install -r requirements.txt
 2. python -m venv env
 3. ./env/Scripts/activate
-4. pip install -r requirements.txt  ||  pip install pillow  || pip install Django
+4. pip install -r requirements.txt  ||  pip install --upgrade pillow  || pip install Django
 5. python manage.py runserver
 6. Click on the link on terminal
